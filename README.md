@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/maniraguha_eric" target="blank"><img src="https://img.shields.io/twitter/follow/maniraguha_eric?logo=twitter&style=for-the-badge" alt="maniraguha_eric" /></a> </p>
 
-- 🌱 I’m currently learning **React Redux**
+- 🌱 I’m currently learning **React Redux, Tailwind-css**
 
 - 💬 Ask me about **C++, JavaScript,Typescript, Sequelize, React, API NodeJS, GraphQL**
 
