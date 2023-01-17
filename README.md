@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Maniraguha</h1>
-<h3 align="center">A passionate backend and frontend from Kigali-Rwanda</h3>
+<h3 align="center">A passionate Data Science and Machine Learning from Kigali-Rwanda</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <img align='right'width="400" src="blob:https://tenor.com/13cc611c-69ea-4df3-911b-23ad1b17898b">
 
