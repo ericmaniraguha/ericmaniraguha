@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **ArcGIS, PowerBI, Google Earth Engine, Deep Learning, LaTeX, GCP, AWS, GitHub, Kaggle, Colab, ETL, MLOps**
 
-- 📫 How to reach me **emanirag@alumni.cmu.edu or ericmaniraguha@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maniraguha_eric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maniraguha_eric" height="30" width="40" /></a>
