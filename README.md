@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/maniraguha_eric" target="blank"><img src="https://img.shields.io/twitter/follow/maniraguha_eric?logo=twitter&style=for-the-badge" alt="maniraguha_eric" /></a> </p>
 
-- 🌱 I’m currently learning **React Redux, Tailwind-css**
+- 💬 Ask me about **ArcGIS, PowerBI, Google Earth Engine, Deep Learning, LaTeX, GCP, AWS, GitHub, Kaggle, Colab, ETL, MLOps**
 
-- 💬 Ask me about **C++, JavaScript,Typescript, Sequelize, React, API NodeJS, GraphQL**
-
-- 📫 How to reach me **emanirag@andrew.cmu.edu or ericmaniraguha@gmail.com**
+- 📫 How to reach me **emanirag@alumni.cmu.edu or ericmaniraguha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
